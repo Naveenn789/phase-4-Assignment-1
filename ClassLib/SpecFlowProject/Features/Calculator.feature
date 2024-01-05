@@ -28,4 +28,4 @@ Scenario: Divide two numbers
 	Given the first number is 49
 	And the second number is 7
 	When the two numbers are divided
-	Then the result should be 120
+	Then the result should be 7
